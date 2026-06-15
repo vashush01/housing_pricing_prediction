@@ -23,8 +23,7 @@ This project uses a supervised machine learning model to estimate house prices f
 - NumPy
 - Scikit-Learn
 - Flask
-- Pickle
-- Jupyter Notebook
+- Google Collab
 
 ## 📂 Project Structure
 
